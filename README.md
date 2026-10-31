@@ -1,2 +1,2 @@
 # Last_Walk_Wiki
-Wiki para o projeto Last Walk
+Repositório contendo a documentação Wiki dos meus projetos de jogos.
